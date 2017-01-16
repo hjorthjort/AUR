@@ -4,3 +4,6 @@
 [submodule "xss-lock-git"]
 	path = xss-lock-git
 	url = https://aur.archlinux.org/xss-lock-git.git
+[submodule "pepper-flash"]
+	path = pepper-flash
+	url = https://aur.archlinux.org/pepper-flash.git
