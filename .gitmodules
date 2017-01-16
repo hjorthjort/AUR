@@ -1,3 +1,6 @@
 [submodule "dropbox"]
 	path = dropbox
 	url = https://aur.archlinux.org/dropbox
+[submodule "xss-lock-git"]
+	path = xss-lock-git
+	url = https://aur.archlinux.org/xss-lock-git.git
