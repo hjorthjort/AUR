@@ -10,3 +10,6 @@
 [submodule "slack-desktop"]
 	path = slack-desktop
 	url = https://aur.archlinux.org/slack-desktop.git
+[submodule "toggl-cli"]
+	path = toggl-cli
+	url = https://aur.archlinux.org/toggl-cli.git
