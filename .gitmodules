@@ -7,3 +7,6 @@
 [submodule "pepper-flash"]
 	path = pepper-flash
 	url = https://aur.archlinux.org/pepper-flash.git
+[submodule "slack-desktop"]
+	path = slack-desktop
+	url = https://aur.archlinux.org/slack-desktop.git
