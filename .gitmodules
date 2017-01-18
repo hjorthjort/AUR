@@ -13,3 +13,12 @@
 [submodule "toggl-cli"]
 	path = toggl-cli
 	url = https://aur.archlinux.org/toggl-cli.git
+[submodule "messengerfordesktop-bin"]
+	path = messengerfordesktop-bin
+	url = https://aur.archlinux.org/messengerfordesktop-bin.git
+[submodule "bcwc-pcie-dkms"]
+	path = bcwc-pcie-dkms
+	url = https://aur.archlinux.org/bcwc-pcie-dkms
+[submodule "bcwc-pcie-firmware"]
+	path = bcwc-pcie-firmware
+	url = https://aur.archlinux.org/bcwc-pcie-firmware
