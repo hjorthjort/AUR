@@ -22,3 +22,6 @@
 [submodule "bcwc-pcie-firmware"]
 	path = bcwc-pcie-firmware
 	url = https://aur.archlinux.org/bcwc-pcie-firmware
+[submodule "pommed-light"]
+	path = pommed-light
+	url = https://aur.archlinux.org/pommed-light.git
