@@ -25,3 +25,6 @@
 [submodule "pommed-light"]
 	path = pommed-light
 	url = https://aur.archlinux.org/pommed-light.git
+[submodule "mullvad"]
+	path = mullvad
+	url = https://aur.archlinux.org/mullvad.git
