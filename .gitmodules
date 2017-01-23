@@ -28,3 +28,6 @@
 [submodule "mullvad"]
 	path = mullvad
 	url = https://aur.archlinux.org/mullvad.git
+[submodule "pdfjs"]
+	path = pdfjs
+	url = https://aur.archlinux.org/pdfjs.git
