@@ -31,3 +31,15 @@
 [submodule "pdfjs"]
 	path = pdfjs
 	url = https://aur.archlinux.org/pdfjs.git
+[submodule "pipelight"]
+	path = pipelight
+	url = https://aur.archlinux.org/pipelight.git
+[submodule "pacaur"]
+	path = pacaur
+	url = https://aur.archlinux.org/pacaur.git
+[submodule "cower"]
+	path = cower
+	url = https://aur.archlinux.org/cower.git
+[submodule "google-chrome"]
+	path = google-chrome
+	url = https://aur.archlinux.org/google-chrome.git
